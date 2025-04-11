@@ -1,5 +1,4 @@
 "use client";
-import React, { act } from "react";
 import DiscussionCard from "./components/DiscussionCard";
 import { useState } from "react";
 import { ChevronRight, ChevronLeft } from "lucide-react";
